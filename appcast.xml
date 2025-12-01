@@ -8,11 +8,9 @@
       <title>Version 1.0.1</title>
       <description>
         <![CDATA[
-          <h2>What's New</h2>
-          <ul>
-            <li>Added in-app updates</li>
-            <li>Bug fixes and performance improvements</li>
-          </ul>
+          What's New
+          Added in-app updates<
+          Bug fixes and performance improvements
         ]]>
       </description>
       <pubDate>Sat, 29 Nov 2024 12:00:00 +0000</pubDate>
@@ -22,5 +20,6 @@
     </item>
   </channel>
 </rss>
+
 
 
